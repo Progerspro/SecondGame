@@ -1,0 +1,9 @@
+﻿  Charcter.cpp
+  Generating Code...
+  Compiling...
+  TextureLoad.cpp
+  SecondGame.cpp
+  Game.cpp
+  Generating Code...
+MSVCRTD.lib(cinitexe.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  SecondGame.vcxproj -> C:\Users\Progers\Documents\Visual Studio 2013\Projects\SecondGame\Debug\SecondGame.exe
